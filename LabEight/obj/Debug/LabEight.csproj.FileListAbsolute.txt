@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\bin\Debug\LabEight.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\bin\Debug\LabEight.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\bin\Debug\LabEight.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\obj\Debug\LabEight.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\obj\Debug\LabEight.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\obj\Debug\LabEight.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabEight\LabEight\obj\Debug\LabEight.pdb
